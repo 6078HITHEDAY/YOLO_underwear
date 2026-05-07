@@ -7,7 +7,7 @@
 
 * 83% 召回、0.73~0.87 置信度，182 张训练集
 
-* 模型文件在`Rossi_underground`里
+* 模型文件在`Rossi_underwear`里
 
 * 训练集图片：https://drive.google.com/drive/folders/1bYoKBP03iI_kFtAwkzDinGtOYAdAo4iU?usp=sharing
 
